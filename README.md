@@ -1,5 +1,5 @@
 # Restraunt_website
-RESTRAUNT MENU ON WEBSITE
+RESTRAUNT MENU ON WEBSITE------
 Hi i have made a simple restraunt website with orders,contact,menu,home etc.
 The website comprises of javascript,html and css
 i have divided the coding in some parts
